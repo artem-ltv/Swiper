@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "807413821807",
+    "firebase_url": "https://swiper-18620-default-rtdb.firebaseio.com",
+    "project_id": "swiper-18620",
+    "storage_bucket": "swiper-18620.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807413821807:android:d7a595b6ba4621ecdaf89a",
+        "android_client_info": {
+          "package_name": "com.Lunranta.Swiper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBSBE5vKDk1kWgmyoaBkKTzTrShj4X_N8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
